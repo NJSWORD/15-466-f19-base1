@@ -1,0 +1,24 @@
+computer.xcf?main 0 0 1920 1080 0 0 main-bg
+computer.xcf?cpu 630 500 730 600 0 0 cpu-bg
+computer.xcf?gpu 890 490 1030 590 0 0 gpu-bg
+computer.xcf?power 1190 500 1310 580 0 0 power-bg
+computer.xcf?pc 840 435 1090 620 0 0 pc-bg
+computer.xcf?mall 460 415 1450 1080 0 0 mall-bg
+computer.xcf?bg 0 0 1920 1080 0 0 base-bg
+
+computer.xcf?text 0 0 +1075 +35 0 +0 room-text
+computer.xcf?text 20 310 +320 +35 30 +0 return-room-text
+computer.xcf?text 0 195 60 225 0 +0 exit-text
+computer.xcf?text 0 275 30 320 0 +0 text-select-left
+
+computer.xcf?text 325 45 615 80 335 +0 go-gpu-text
+computer.xcf?text 625 45 915 80 635 +0 go-cpu-text
+computer.xcf?text 910 45 1330 80 920 +0 go-power-text
+
+computer.xcf?text 20 80 240 115 +10 +0 buy-gpu-text
+computer.xcf?text 260 80 480 115 +10 +0 buy-cpu-text
+computer.xcf?text 500 80 870 115 +10 +0 buy-power-text
+computer.xcf?text 20 120 500 155 +5 +0 build-text
+
+computer.xcf?text 15 155 695 190 +0 +0 warn-text
+computer.xcf?text 15 190 910 225 +0 +0 success-text
